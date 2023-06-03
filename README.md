@@ -9,7 +9,6 @@ This is also a first Neural Network Model implemenation I built; furthermore, I 
   * Model
 # Installation
 To run this project, it is needed to install the following libraries:
- * Python 3
  * PyTorch
  * NumPy
  * Pandas
