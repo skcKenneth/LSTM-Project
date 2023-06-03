@@ -14,3 +14,6 @@ To run this project, it is needed to install the following libraries:
  * Pandas
  * Plotly
  * yfinance
+# Usage
+In order to run the model, run the .ipynb file after installing the libraries.
+``` 
