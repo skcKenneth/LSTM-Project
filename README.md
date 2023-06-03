@@ -15,5 +15,5 @@ To run this project, it is needed to install the following libraries:
  * Plotly
  * yfinance
 # Usage
-In order to run the model, run the .ipynb file after installing the libraries.
-``` 
+In order to run the model, run the Stock-Market Prediction - LSTM.ipynb file after installing the libraries.
+``` Stock-Market Prediction - LSTM.ipynb
