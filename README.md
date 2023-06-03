@@ -20,9 +20,9 @@ In order to run the model, run the Stock-Market Prediction - LSTM.ipynb file wit
 Stock-Market Prediction - LSTM.ipynb
 ```
 # Data 
-The stock market dataset used in this project is obtained from Yahoo Finance. The dataset contains daily stock prices and volumes for a particular stock, and it covers a period of several years. Historical stock market data is widely available from a variety of sources, including financial news websites, stock market data providers, and publicly available data from stock exchanges.
+The stock market dataset used in this project is obtained from Yahoo Finance. The dataset contains daily stock prices and volumes for a particular stock, and it covers a period of several years.
 
-When using historical stock market data, it's important to ensure that the data is accurate and reliable. Some sources of historical stock market data may contain errors or inaccuracies, so it's important to carefully validate and clean the data before using it for analysis or machine learning.
+When using historical stock market data, it's important to ensure that the data is accurate and reliable. Some sources of historical stock market data may contain errors or inaccuracies, so it's important to carefully validate and clean the data before using it for analysis or machine learning. Therefore, scaling the data is essential.
 
 # Model
 The LSTM model used in this project consists of several LSTM layers followed by a output layer. The model is trained using a mean absolute error (MAE) loss function and an Adam optimizer. The model is trained for a fixed number of epochs.
