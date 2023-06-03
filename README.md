@@ -16,4 +16,5 @@ To run this project, it is needed to install the following libraries:
  * yfinance
 # Usage
 In order to run the model, run the Stock-Market Prediction - LSTM.ipynb file after installing the libraries.
-``` Stock-Market Prediction - LSTM.ipynb
+``` python 
+Stock-Market Prediction - LSTM.ipynb
