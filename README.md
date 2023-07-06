@@ -24,4 +24,5 @@ The LSTM model used in this project consists of several LSTM layers followed by 
 
 # Result
 ![plot](Actual vs. Predicted .png)
+
 This is the result that comparing the predicted value and actual value.
