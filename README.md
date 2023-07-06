@@ -23,6 +23,5 @@ When using historical stock market data, it's important to ensure that the data 
 The LSTM model used in this project consists of several LSTM layers followed by a output layer. The model is trained using a mean absolute error (MAE) loss function and an Adam optimizer. The model is trained for a fixed number (200) of epochs.
 
 # Result
-![plot](Actual vs. Predicted .png)
-
+![Actual vs  Predicted ](https://github.com/skcKenneth/LSTM-Project/assets/46993305/0d03ed7f-1e86-40fe-b552-33126aefecca)
 This is the result that comparing the predicted value and actual value.
